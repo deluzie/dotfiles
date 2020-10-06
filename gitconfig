@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = luzie@deubels.de
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles
 	name = Luzie Deubel
